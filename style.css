@@ -2,13 +2,17 @@
 
 body {
     background-color: #161618;
-    padding-right: 140px;
-    padding-left: 40px;
+    padding-right: 150px;
+    padding-left: 50px;
+
+    margin-right: 80px;
 
     padding-top: 90px;
     text-decoration: none;
 
     color: #AEAEAF;
+
+   
 }
 
 body a{
@@ -50,4 +54,17 @@ body a{
 
 .title {
     color: #EBEBEC;
+}
+
+.link {
+    color: #EBEBEC;
+    font-weight: bold;
+}
+
+.link:hover {
+    color: #ED8619;
+}
+
+.paragraph {
+     line-height: 2;
 }
